@@ -15,6 +15,8 @@ The final product of this project is the design of 4 components:
 
 ## The results can be found in the following notebooks and folders:
 
+### Data and plots
+
 folder **data** contains full HTMLs of job postings scraped from Indeed.ca and .csv's with skills and data parsed from these postings.
 
 folder **final plots** contains the **frequency barcharts and hierarchical clustering dendrograms of skills**
@@ -22,6 +24,8 @@ folder **final plots** contains the **frequency barcharts and hierarchical clust
 * two skill frequency barcharts and dendrograms were constructed from skills parsed from technical and managerial job postings scraped from Indeed.ca
 
 * one more dendrogram was constructed from results from some questions from Kaggle 2018 Data Science and Machine Learning  survey
+
+### jupyter notebooks
 
 **Indeed_web_scraper_v13.ipynb** -- jupyter notebook with a web scraper used to scrape Data Science related job postings from indeed.ca
 
